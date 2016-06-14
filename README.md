@@ -9,6 +9,9 @@ To add a new widget, create a new list item in your dashboard's ejs file. My das
 ### Widgets
 Create and edit widgets listed under `widgets` directory. Each widget should have a coffee, html, and scss file. The widgets listed are only a few of those included when creating a new `dashing-js` project.
 
+### Your API credentials
+My cloudBit, forecast, and Twilio credentials are stored in a file called `lib/apikeys.js`. Create your own file to store your variables or load environment variables.
+
 ### Default dashboard
 You can change your default dashboard in `server.js`.
 
