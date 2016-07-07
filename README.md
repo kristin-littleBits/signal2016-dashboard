@@ -1,4 +1,4 @@
-## Demo dashboard for SIGNAL 2016 using littleBits, Twilio SMS, and [dashing-js](http://fabiocaseri.github.io/dashing-js).
+## Demo dashboard for SIGNAL 2016 using littleBits, Twilio SMS, and [dashing-js](https://github.com/fabiocaseri/dashing-js).
 
 ### Adding a job file
 Create a new job file under the `jobs` directory. Edit file to include code executed for widgets. You can add littleBits cloud API and Twilio API calls here.
@@ -19,4 +19,4 @@ You can change your default dashboard in `server.js`.
 Use the `dashing-js start` command while in your dashboard folder to run your dashboard locally.
 
 ### dashing-js
-Click [here](http://fabiocaseri.github.io/dashing-js) for more info about the dashing-js module
+Click [here](https://github.com/fabiocaseri/dashing-js) for more info about the dashing-js module
